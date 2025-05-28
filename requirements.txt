@@ -10,7 +10,7 @@ bleach==3.3.0
     # via nbconvert
 blinker==1.4
     # via nikola
-certifi==2018.4.16
+certifi==2024.7.4
     # via requests
 chardet==3.0.4
     # via requests
