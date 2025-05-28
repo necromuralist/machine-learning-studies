@@ -188,7 +188,7 @@ qtconsole==4.3.1
     # via jupyter
 requests==2.19.1
     # via nikola
-scikit-learn==0.19.2
+scikit-learn==1.5.1
     # via sklearn
 scipy==1.1.0
     # via seaborn
