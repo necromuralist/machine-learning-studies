@@ -34,7 +34,7 @@ fastjsonschema==2.16.1
     # via nbformat
 ghp-import2==1.0.1
     # via -r requirements.in
-idna==2.7
+idna==3.7
     # via requests
 ipykernel==4.8.2
     # via
