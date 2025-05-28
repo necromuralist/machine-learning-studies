@@ -250,7 +250,7 @@ webencodings==0.5.1
     # via
     #   bleach
     #   tinycss2
-wheel==0.31.1
+wheel==0.38.1
     # via -r requirements.in
 widgetsnbextension==3.3.1
     # via ipywidgets
