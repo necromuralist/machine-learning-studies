@@ -186,7 +186,7 @@ pyzmq==23.2.1
     #   notebook
 qtconsole==4.3.1
     # via jupyter
-requests==2.32.2
+requests==2.32.4
     # via nikola
 scikit-learn==1.5.1
     # via sklearn
