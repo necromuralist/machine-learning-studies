@@ -236,7 +236,7 @@ traitlets==5.3.0
     #   qtconsole
 unidecode==1.0.22
     # via nikola
-urllib3==2.6.0
+urllib3==2.6.3
     # via requests
 virtualenv==20.26.6
     # via virtualfish
