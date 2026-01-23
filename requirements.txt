@@ -238,7 +238,7 @@ unidecode==1.0.22
     # via nikola
 urllib3==2.6.3
     # via requests
-virtualenv==20.26.6
+virtualenv==20.36.1
     # via virtualfish
 virtualfish==1.0.6
     # via -r requirements.in
