@@ -155,7 +155,7 @@ ptyprocess==0.6.0
     # via
     #   pexpect
     #   terminado
-pygments==2.15.0
+pygments==2.20.0
     # via
     #   ipython
     #   jupyter-console
