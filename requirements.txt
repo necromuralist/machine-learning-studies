@@ -103,7 +103,7 @@ natsort==5.3.3
     # via nikola
 nbclient==0.6.7
     # via nbconvert
-nbconvert==7.17.0
+nbconvert==7.17.1
     # via
     #   jupyter
     #   notebook
