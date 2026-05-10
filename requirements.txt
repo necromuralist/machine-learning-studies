@@ -97,7 +97,7 @@ markupsafe==2.1.1
     #   nbconvert
 matplotlib==2.2.2
     # via seaborn
-mistune==0.8.3
+mistune==3.2.1
     # via nbconvert
 natsort==5.3.3
     # via nikola
